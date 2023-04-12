@@ -1,4 +1,4 @@
 [project]
-name: "haste"
-owner: "fonyx"
-description: "Fonyx Haste is a lightning-fast, memory-safe programming language designed for critical, high-efficiency situations."
+name = "haste"
+owner = "fonyx"
+description = "Fonyx Haste is a lightning-fast, memory-safe programming language designed for critical, high-efficiency situations."
