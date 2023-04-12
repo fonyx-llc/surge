@@ -1,4 +1,4 @@
 [project]
-name = "haste"
+name = "fotor"
 owner = "fonyx"
-description = "Fonyx Haste is a lightning-fast, memory-safe programming language designed for critical, high-efficiency situations."
+description = "Fonyx Fotor is a high-performance, memory-safe programming language based on mathematical formulas and optimized for low resource costs, designed for critical and high-efficiency situations."
